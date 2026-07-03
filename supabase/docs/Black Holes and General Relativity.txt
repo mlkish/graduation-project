@@ -1,0 +1,35 @@
+Black Holes and General Relativity
+
+A black hole is a region of spacetime where gravity is so strong that nothing — not even light — can escape once it crosses the boundary called the event horizon. Black holes are predicted by Albert Einstein's general theory of relativity, published in 1915, which describes gravity not as a force but as the curvature of spacetime caused by mass and energy.
+
+General relativity in brief
+
+Newton treated gravity as an instantaneous force between masses. Einstein reframed it: mass and energy curve the four-dimensional fabric of spacetime, and objects follow the straightest possible paths (geodesics) through that curved geometry. The core mathematical statement is the Einstein field equations, often summarized as "matter tells spacetime how to curve, and spacetime tells matter how to move." General relativity predicted phenomena later confirmed by observation: the bending of starlight by the Sun (measured during the 1919 solar eclipse), the precession of Mercury's orbit, gravitational time dilation (clocks run slower in stronger gravity, a correction essential to GPS), and gravitational waves.
+
+The Schwarzschild solution and the event horizon
+
+In 1916 Karl Schwarzschild found the first exact solution to Einstein's equations, describing spacetime around a non-rotating, uncharged mass. It defines the Schwarzschild radius, the radius of the event horizon: R = 2GM/c^2, where G is the gravitational constant, M the mass, and c the speed of light. For an object to become a black hole, its mass must be compressed within this radius. The Sun's Schwarzschild radius is about 3 kilometers; Earth's is about 9 millimeters. At the center lies a singularity, a point of theoretically infinite density where known physics breaks down.
+
+Types of black holes
+
+- Stellar-mass black holes (about 3 to 100 solar masses) form when a massive star (more than roughly 20 solar masses) exhausts its fuel and its core collapses in a supernova.
+- Supermassive black holes (millions to billions of solar masses) sit at the centers of most large galaxies. The Milky Way hosts Sagittarius A*, about 4 million solar masses.
+- Intermediate-mass black holes (hundreds to thousands of solar masses) are a less common, harder-to-detect middle category.
+- Primordial black holes are hypothesized to have formed in the dense early universe, though none have been confirmed.
+
+Rotation and structure
+
+Real black holes rotate, described by the Kerr solution (1963). A rotating black hole has an ergosphere, a region outside the event horizon where spacetime itself is dragged around (frame dragging), from which energy can theoretically be extracted. As matter falls toward a black hole it forms an accretion disk, heating to millions of degrees and emitting intense X-rays; some black holes launch relativistic jets of plasma along their spin axis.
+
+Hawking radiation
+
+In 1974 Stephen Hawking showed that, when quantum effects near the event horizon are considered, black holes are not perfectly black: they emit faint thermal radiation and slowly lose mass, eventually evaporating. The temperature is inversely proportional to mass, so large black holes are colder than the cosmic microwave background and are currently gaining mass, not shrinking. Hawking radiation raises the "information paradox" — whether information that falls in is destroyed, which would violate quantum mechanics — a question still debated.
+
+Observational evidence
+
+Black holes cannot be seen directly but are inferred from their effects. Key milestones:
+- Stars orbiting an invisible, compact mass at the galactic center revealed Sagittarius A* (Nobel Prize in Physics 2020).
+- In 2015 the LIGO detectors made the first direct detection of gravitational waves, from two merging black holes about 1.3 billion light-years away (Nobel Prize 2017).
+- In 2019 the Event Horizon Telescope, a global array of radio telescopes, published the first image of a black hole's shadow, in the galaxy M87, about 6.5 billion solar masses. In 2022 it imaged Sagittarius A*.
+
+Black holes are among the best natural laboratories for testing gravity in its strongest regime, and reconciling general relativity with quantum mechanics near the singularity remains one of the deepest unsolved problems in physics.

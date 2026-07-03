@@ -1,0 +1,41 @@
+The Science of Sleep
+
+Sleep is a reversible state of reduced consciousness and responsiveness that occurs in nearly all animals and is essential to health. Humans spend roughly a third of their lives asleep. Far from being passive rest, sleep is an active, highly organized process during which the brain consolidates memories, clears metabolic waste, regulates hormones, and restores physiological systems.
+
+Sleep architecture: stages and cycles
+
+Sleep is divided into two broad types, distinguished by brain activity measured with electroencephalography (EEG):
+- Non-REM (NREM) sleep, itself divided into three stages:
+  - N1: light transitional sleep, lasting a few minutes, when the sleeper drifts off and can be easily awakened.
+  - N2: the largest share of adult sleep (about 45–55%), marked by sleep spindles and K-complexes, brainwave patterns associated with memory processing.
+  - N3: deep, slow-wave sleep, dominated by high-amplitude delta waves. It is the most restorative stage, when the body releases growth hormone, repairs tissue, and strengthens the immune system. It is hardest to wake from and predominates in the first half of the night.
+- REM (rapid eye movement) sleep: characterized by fast, wake-like brain activity, vivid dreaming, rapid eye movements, and temporary paralysis of the skeletal muscles (atonia) that prevents acting out dreams. REM is important for emotional regulation and learning.
+
+A full sleep cycle lasts about 90 minutes and repeats four to six times a night. Early cycles contain more deep NREM sleep; later cycles contain progressively more REM. Adults typically need 7–9 hours of sleep; newborns need 14–17 hours, and school-age children and teenagers need more than adults.
+
+The two-process model
+
+Sleep is governed by two interacting systems:
+1. Sleep pressure (Process S): the drive to sleep builds the longer one is awake, associated with the accumulation of adenosine in the brain. Caffeine promotes wakefulness by blocking adenosine receptors.
+2. The circadian rhythm (Process C): an internal roughly-24-hour clock centered in the suprachiasmatic nucleus (SCN) of the hypothalamus. Light is the dominant cue (zeitgeber) that synchronizes it to the day–night cycle. In darkness, the pineal gland releases melatonin, a hormone that signals nighttime and promotes sleep; light — especially blue-wavelength light — suppresses it.
+
+Functions of sleep
+
+- Memory consolidation: sleep transfers information from short-term to long-term storage. Deep NREM sleep supports factual (declarative) memory, while REM sleep supports procedural skills and emotional memory.
+- Waste clearance: the glymphatic system, which flushes metabolic byproducts from the brain, becomes markedly more active during sleep, clearing proteins including beta-amyloid, whose buildup is linked to Alzheimer's disease.
+- Metabolic and hormonal regulation: sleep influences hormones that control appetite (leptin and ghrelin), glucose metabolism, and stress (cortisol).
+
+Consequences of sleep deprivation
+
+Insufficient sleep impairs attention, reaction time, judgment, mood, and immune function. Chronic sleep loss is associated with increased risk of obesity, type 2 diabetes, cardiovascular disease, and depression. Being awake for about 17–19 hours can impair performance to a degree comparable to being legally intoxicated. Sleep loss accumulates as a "sleep debt" that is not fully repaid by a single long sleep.
+
+Common sleep disorders
+
+- Insomnia: persistent difficulty falling or staying asleep; the most common sleep disorder.
+- Obstructive sleep apnea: repeated collapse of the upper airway during sleep, causing breathing pauses, fragmented sleep, and daytime fatigue.
+- Narcolepsy: a neurological disorder causing excessive daytime sleepiness and sudden loss of muscle tone (cataplexy), linked to loss of the neurotransmitter orexin.
+- Restless legs syndrome and circadian rhythm disorders (such as jet lag and shift-work disorder) also disrupt healthy sleep.
+
+Sleep hygiene
+
+Evidence-based practices to improve sleep include keeping a consistent sleep-wake schedule, getting bright light in the morning and limiting it in the evening, avoiding caffeine and large meals late in the day, keeping the bedroom cool and dark, and reserving the bed for sleep. These align behavior with the body's two-process regulation and are the first-line approach for many sleep complaints.

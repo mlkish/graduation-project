@@ -1,0 +1,29 @@
+Photosynthesis and the Carbon Cycle
+
+Photosynthesis is the biochemical process by which plants, algae, and some bacteria convert light energy into chemical energy stored in sugars. It is the foundation of nearly all life on Earth: it produces the organic molecules that feed food webs and releases the oxygen that most organisms need to breathe. The overall reaction can be summarized as: six molecules of carbon dioxide plus six molecules of water, using light energy, yield one molecule of glucose plus six molecules of oxygen (6 CO2 + 6 H2O + light -> C6H12O6 + 6 O2).
+
+Where it happens
+
+In plants, photosynthesis occurs in chloroplasts, organelles concentrated in leaf cells. Chloroplasts contain stacked membrane compartments called thylakoids (arranged in stacks called grana), surrounded by a fluid called the stroma. The green pigment chlorophyll, embedded in thylakoid membranes, absorbs light most strongly in the red and blue parts of the spectrum and reflects green — which is why leaves appear green. Accessory pigments such as carotenoids capture additional wavelengths. Chloroplasts are thought to have originated from free-living cyanobacteria engulfed by an ancestral cell, an event called endosymbiosis.
+
+The two stages
+
+Photosynthesis proceeds in two linked stages:
+
+1. The light-dependent reactions, in the thylakoid membranes. Light energy is captured by chlorophyll in two protein complexes, Photosystem II and Photosystem I. The energy splits water molecules (photolysis), releasing oxygen as a byproduct, along with electrons and protons. Electrons pass along an electron transport chain, pumping protons into the thylakoid space and building an electrochemical gradient. The enzyme ATP synthase uses this gradient to produce ATP, and the reactions also generate NADPH. Both ATP and NADPH are energy carriers used in the next stage.
+
+2. The light-independent reactions (the Calvin cycle), in the stroma. Here the ATP and NADPH power the fixation of carbon dioxide into sugar. The key enzyme RuBisCO (ribulose-1,5-bisphosphate carboxylase/oxygenase) attaches CO2 to a five-carbon molecule; a series of steps then produces the three-carbon sugar G3P, some of which is used to build glucose and other carbohydrates, and some of which regenerates the starting molecule. RuBisCO is believed to be the most abundant protein on Earth.
+
+C3, C4, and CAM plants
+
+Most plants use the standard "C3" pathway, but RuBisCO can wastefully react with oxygen instead of CO2 (photorespiration), especially when it is hot and dry and leaf pores close. Some plants evolved adaptations: C4 plants (such as maize and sugarcane) concentrate CO2 in specialized cells to boost efficiency, and CAM plants (such as cacti and succulents) open their pores only at night to conserve water. These adaptations make such plants more productive in hot, arid conditions.
+
+The carbon cycle
+
+Photosynthesis is one half of a global exchange of carbon between the atmosphere, living things, oceans, soils, and rocks. The complementary process is cellular respiration, in which organisms break down sugars using oxygen to release energy, returning carbon dioxide and water to the environment. Together, photosynthesis and respiration cycle carbon through the biosphere.
+
+Carbon also moves through longer-term reservoirs. Oceans absorb roughly a quarter of atmospheric CO2, some of which is used by marine organisms or stored in the deep sea. Over geological timescales, the remains of organisms buried and compressed underground form fossil fuels (coal, oil, and natural gas), locking away carbon for millions of years. Weathering of rocks and the formation of limestone store carbon as well; volcanic activity releases it.
+
+Human impact
+
+Human activity has significantly altered the carbon cycle. Burning fossil fuels and clearing forests release carbon that had been stored for long periods, raising atmospheric CO2 concentrations from about 280 parts per million before the Industrial Revolution to over 420 parts per million today. Because carbon dioxide is a greenhouse gas that traps heat, this increase is the primary driver of modern climate change. Forests, grasslands, and oceans act as carbon "sinks" that absorb part of these emissions, which is why protecting and restoring ecosystems is central to strategies for limiting warming. Understanding photosynthesis is thus not only fundamental biology but also key to agriculture, ecology, and climate science.

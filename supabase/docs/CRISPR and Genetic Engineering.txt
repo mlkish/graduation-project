@@ -1,0 +1,39 @@
+CRISPR and Genetic Engineering
+
+CRISPR is a revolutionary technology that allows scientists to edit DNA with unprecedented precision, low cost, and ease. The name stands for Clustered Regularly Interspaced Short Palindromic Repeats, referring to peculiar repeated sequences first noticed in bacterial genomes in the late 1980s. Its development into a genome-editing tool earned Emmanuelle Charpentier and Jennifer Doudna the 2020 Nobel Prize in Chemistry.
+
+Origins: a bacterial immune system
+
+CRISPR evolved as an adaptive immune system in bacteria and archaea to defend against viruses (bacteriophages). When a virus infects a bacterium, the bacterium can capture snippets of the viral DNA and store them between the CRISPR repeats, creating a genetic "memory." If the same virus attacks again, the bacterium transcribes these stored sequences into guide RNA molecules that direct CRISPR-associated (Cas) enzymes to find and cut the matching viral DNA, disabling the invader.
+
+How CRISPR-Cas9 editing works
+
+Researchers adapted this natural system into a programmable editing tool, most commonly using the enzyme Cas9. The system has two key components:
+1. A guide RNA (gRNA): a short, custom-designed RNA sequence that matches the target DNA site the scientist wants to edit.
+2. The Cas9 protein: an enzyme that acts as molecular scissors, cutting both strands of the DNA double helix.
+
+The guide RNA leads Cas9 to the precise location in the genome by base-pairing with the matching DNA sequence. Cas9 first checks for a short adjacent sequence called a PAM (protospacer adjacent motif), which must be present for cutting to occur, then makes a double-strand break. The cell's own repair machinery then fixes the break by one of two pathways:
+- Non-homologous end joining (NHEJ): a quick but error-prone repair that often introduces small insertions or deletions, which can disable ("knock out") a gene.
+- Homology-directed repair (HDR): a precise repair that, when supplied with a template DNA sequence, lets scientists insert or correct specific sequences ("knock in").
+
+Newer variants and refinements
+
+CRISPR technology has advanced rapidly beyond simple cutting:
+- Base editing chemically converts one DNA letter into another (for example C to T) without cutting both strands, reducing unintended errors.
+- Prime editing, described in 2019, can make a wide range of precise edits — insertions, deletions, and substitutions — using a modified Cas9 and a special guide RNA, likened to a "search and replace" for the genome.
+- Other Cas enzymes, such as Cas12 and Cas13 (which targets RNA rather than DNA), expand the toolkit; Cas13 has been used in diagnostic tests.
+
+Applications
+
+- Medicine: CRISPR is being used to develop treatments for genetic diseases. In 2023 the first CRISPR-based therapy was approved for sickle cell disease and beta-thalassemia, editing patients' blood stem cells to reactivate fetal hemoglobin. Research targets include inherited blindness, muscular dystrophy, and certain cancers, often via engineered immune cells.
+- Agriculture: crops can be edited for higher yield, disease resistance, drought tolerance, and improved nutrition, sometimes without introducing foreign DNA, which affects how they are regulated.
+- Research: CRISPR lets scientists rapidly disable or modify genes to study their function, accelerating basic biology.
+- Diagnostics and biotechnology: CRISPR-based tests can detect specific genetic sequences, including from pathogens.
+
+Limitations and risks
+
+Challenges include off-target effects (unintended edits elsewhere in the genome), efficient delivery of the CRISPR machinery into the right cells and tissues, and incomplete editing across a population of cells (mosaicism). These are active areas of research aimed at improving precision and safety.
+
+Ethical considerations
+
+CRISPR raises significant ethical questions, especially regarding germline editing — changes to eggs, sperm, or embryos that would be inherited by future generations. In 2018 a scientist in China announced the birth of the first gene-edited babies, an experiment widely condemned as unethical and premature, leading to his imprisonment. The scientific community broadly supports somatic (non-heritable) therapeutic editing while urging strong caution and, for now, moratoria on heritable human editing. Broader debates concern equitable access to expensive therapies, ecological effects of gene drives (which can spread an edit rapidly through wild populations), and the boundary between treating disease and enhancing traits.

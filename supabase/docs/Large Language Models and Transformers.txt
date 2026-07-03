@@ -1,0 +1,31 @@
+Large Language Models and the Transformer Architecture
+
+A large language model (LLM) is a neural network trained on vast amounts of text to predict and generate language. Modern LLMs — such as the GPT, Claude, Gemini, and Llama families — are built on the Transformer architecture, introduced in the 2017 paper "Attention Is All You Need" by Vaswani and colleagues at Google. The Transformer replaced earlier recurrent and convolutional approaches and now underpins most state-of-the-art systems in natural language processing and beyond.
+
+Tokens and embeddings
+
+LLMs do not process raw characters or whole words directly. Text is first broken into tokens — subword units produced by algorithms such as byte-pair encoding (BPE). A token might be a whole common word, a word fragment, or punctuation; as a rough rule of thumb, one token corresponds to about four characters or three-quarters of a word in English. Each token is mapped to a high-dimensional vector called an embedding, which encodes its meaning as a point in a continuous space where semantically similar tokens lie near one another.
+
+Self-attention
+
+The central innovation of the Transformer is the self-attention mechanism. For each token, the model computes three vectors: a query, a key, and a value. Attention scores are produced by comparing each token's query against every other token's key; these scores determine how much each token attends to (draws information from) every other token. This lets the model weigh relationships between words regardless of their distance in the text — resolving, for example, what a pronoun refers to many words earlier. Multi-head attention runs this process in parallel across several "heads," each learning different types of relationships. Because attention alone is order-blind, positional encodings are added so the model knows the sequence of tokens.
+
+Model structure and scale
+
+A Transformer stacks many identical layers, each containing an attention sub-layer and a feed-forward sub-layer, with residual connections and normalization to stabilize training. The number of learned parameters — the weights adjusted during training — measures model scale; contemporary frontier models have tens to hundreds of billions of parameters, some reportedly over a trillion. Empirically observed "scaling laws" show that performance improves predictably as model size, training data, and compute increase together.
+
+Training stages
+
+1. Pretraining: The model learns from enormous text corpora (web pages, books, code) using self-supervised learning — typically predicting the next token given the preceding context. No human labels are required; the text itself provides the supervision. This stage is by far the most compute-intensive.
+2. Supervised fine-tuning (SFT): The model is trained on curated examples of desired behavior, such as helpful question-and-answer pairs, to make it follow instructions.
+3. Alignment: Techniques such as reinforcement learning from human feedback (RLHF) further shape the model. Humans rank alternative responses; a reward model learns those preferences; and the LLM is optimized to produce highly rated outputs. This step improves helpfulness and reduces harmful or off-target responses.
+
+Inference and generation
+
+At inference time the model generates text autoregressively — producing one token at a time, each conditioned on all previous tokens, then feeding it back in. Sampling parameters shape the output: temperature controls randomness (lower is more deterministic), while top-k and top-p (nucleus) sampling restrict the candidate tokens. The context window is the maximum number of tokens the model can consider at once; modern models range from a few thousand to over a million tokens.
+
+Capabilities, limitations, and applications
+
+LLMs perform translation, summarization, question answering, code generation, and open-ended dialogue, and exhibit "emergent" abilities like few-shot learning — solving tasks from a handful of examples given in the prompt. Their limitations include hallucination (producing fluent but false statements), sensitivity to how prompts are phrased, a fixed knowledge cutoff, and difficulty with certain multi-step reasoning and arithmetic.
+
+Two techniques extend their usefulness. Retrieval-augmented generation (RAG) supplies the model with relevant external documents at query time — often found by comparing embedding vectors in a vector database — so answers can draw on current or private information the model was never trained on. Tool use (function calling) lets a model invoke external systems such as calculators, search engines, or databases, forming the basis of AI "agents" that plan and act over multiple steps.

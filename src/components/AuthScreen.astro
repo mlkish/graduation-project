@@ -1,0 +1,48 @@
+<section class="auth-screen" data-screen="auth" aria-labelledby="auth-heading">
+  <div class="auth-container">
+    <div class="auth-brand">
+      <span class="brand-mark">R</span>
+      <span class="brand-name">RAGify AI</span>
+    </div>
+
+    <form class="auth-card" id="auth-form">
+      <div class="auth-card-head">
+        <h1 id="auth-heading">Sign in</h1>
+        <p id="auth-copy">Use your email and password to open your chat history.</p>
+      </div>
+
+      <label class="field">
+        <span class="field-label">Email</span>
+        <input
+          id="email"
+          name="email"
+          type="email"
+          autocomplete="email"
+          placeholder="you@example.com"
+          required
+        />
+      </label>
+
+      <label class="field">
+        <span class="field-label">Password</span>
+        <input
+          id="password"
+          name="password"
+          type="password"
+          autocomplete="current-password"
+          minlength="6"
+          placeholder="••••••••"
+          required
+        />
+      </label>
+
+      <button class="primary-button" id="auth-submit" type="submit">Sign in</button>
+      <p class="form-status" id="auth-status" role="alert"></p>
+      <button class="text-button" id="auth-toggle" type="button">
+        Need an account? Create one
+      </button>
+    </form>
+
+    <p class="auth-footnote">Private workspace</p>
+  </div>
+</section>

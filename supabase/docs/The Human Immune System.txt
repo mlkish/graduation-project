@@ -1,0 +1,40 @@
+The Human Immune System: Innate and Adaptive Defense
+
+The immune system is a distributed network of organs, cells, and proteins that protects the body against pathogens (bacteria, viruses, fungi, parasites), abnormal cells such as tumors, and toxins. It is conventionally divided into two arms: the innate immune system (fast, non-specific, present from birth) and the adaptive immune system (slower, highly specific, and capable of memory).
+
+Primary and secondary lymphoid organs
+
+The bone marrow and the thymus are the primary lymphoid organs, where immune cells are produced and mature. All blood cells originate from hematopoietic stem cells in the bone marrow. T cells (T lymphocytes) migrate to the thymus to mature — the "T" stands for thymus — while B cells mature in the bone marrow. Secondary lymphoid organs, where immune responses are initiated, include the spleen, lymph nodes, tonsils, and mucosa-associated lymphoid tissue (MALT). The human body contains roughly 500–600 lymph nodes.
+
+Innate immunity
+
+The innate system responds within minutes to hours. Its physical and chemical barriers include the skin, mucous membranes, stomach acid (pH ~1.5–3.5), lysozyme in tears and saliva, and antimicrobial peptides. Key innate cells are:
+- Neutrophils: the most abundant white blood cell (50–70% of circulating leukocytes), first responders that phagocytose microbes and release neutrophil extracellular traps (NETs).
+- Macrophages: derived from monocytes, they engulf pathogens and debris and act as antigen-presenting cells (APCs).
+- Dendritic cells: the primary link between innate and adaptive immunity; they capture antigens and present them to T cells.
+- Natural killer (NK) cells: destroy virus-infected and tumor cells without prior sensitization.
+
+Innate cells recognize conserved microbial structures called pathogen-associated molecular patterns (PAMPs) — such as bacterial lipopolysaccharide (LPS) and viral double-stranded RNA — via pattern recognition receptors (PRRs), the best-known being the Toll-like receptors (TLRs); humans have about 10. The complement system, a cascade of roughly 30 plasma proteins, tags pathogens for destruction (opsonization), recruits inflammatory cells, and forms the membrane attack complex (MAC) that punches holes in microbial membranes.
+
+Adaptive immunity
+
+Adaptive immunity is antigen-specific and takes days to develop on first exposure. It has two branches:
+- Humoral immunity, mediated by B cells and the antibodies they secrete.
+- Cell-mediated immunity, mediated by T cells.
+
+T cells recognize antigen only when it is presented on major histocompatibility complex (MHC) molecules (called HLA in humans). MHC class I is expressed on nearly all nucleated cells and presents to CD8+ cytotoxic T cells, which kill infected cells. MHC class II is expressed on professional APCs and presents to CD4+ helper T cells, which coordinate the response by secreting cytokines. Helper T cells differentiate into subsets — Th1 (fight intracellular pathogens), Th2 (parasites, allergy), Th17 (fungi, extracellular bacteria), and regulatory T cells (Treg, which suppress immune responses and maintain self-tolerance).
+
+Antibodies (immunoglobulins) are Y-shaped proteins produced by plasma cells (differentiated B cells). The five classes are IgG (most abundant in serum, ~75% of antibodies, crosses the placenta), IgA (mucosal secretions and breast milk), IgM (first produced in a response, forms pentamers), IgE (allergy and parasite defense, binds mast cells), and IgD (function less understood, found on naive B cells). The enormous diversity of antibodies — an estimated 10^10 or more distinct specificities — arises from V(D)J recombination, the somatic rearrangement of gene segments, plus somatic hypermutation that refines affinity.
+
+Immunological memory
+
+After an infection is cleared, most effector cells die by apoptosis, but a subset of B and T cells persists as long-lived memory cells. On re-exposure to the same antigen, these mount a faster and stronger secondary response. This is the biological basis of vaccination, which exposes the immune system to a harmless form of an antigen to generate memory without causing disease.
+
+Disorders of the immune system
+
+- Autoimmunity: the immune system attacks self-tissues, as in type 1 diabetes, rheumatoid arthritis, multiple sclerosis, and lupus.
+- Immunodeficiency: inadequate immune function, whether inherited (e.g., severe combined immunodeficiency, SCID) or acquired (e.g., HIV/AIDS, which destroys CD4+ T cells).
+- Hypersensitivity: exaggerated responses, including allergies and anaphylaxis (Type I, IgE-mediated).
+- Cytokine storm: an excessive, self-amplifying release of inflammatory cytokines that can cause organ damage, observed in severe infections and some immunotherapies.
+
+Modern immunology underpins vaccines, monoclonal antibody drugs, checkpoint-inhibitor cancer immunotherapy (which blocks proteins like PD-1 and CTLA-4 to unleash T cells against tumors), and organ-transplant management.

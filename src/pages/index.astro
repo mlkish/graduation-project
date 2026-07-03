@@ -1,0 +1,40 @@
+---
+import AuthScreen from "../components/AuthScreen.astro";
+import ChatWorkspace from "../components/ChatWorkspace.astro";
+import ConfigScreen from "../components/ConfigScreen.astro";
+import LoadingScreen from "../components/LoadingScreen.astro";
+import "../styles/chat.css";
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="icon" href="/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <meta
+      name="description"
+      content="RAGify AI is a polished authenticated AI chatbot."
+    />
+    <title>RAGify AI</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <main class="app-shell" data-view="loading">
+      <LoadingScreen />
+      <AuthScreen />
+      <ChatWorkspace />
+      <ConfigScreen />
+    </main>
+
+    <script>
+      import "../scripts/chat-app.js";
+    </script>
+  </body>
+</html>

@@ -1,0 +1,31 @@
+Plate Tectonics and Earthquakes
+
+Plate tectonics is the unifying theory of geology, explaining the large-scale motion of Earth's outer shell. It holds that the lithosphere — the rigid outer layer comprising the crust and uppermost mantle — is broken into about a dozen major plates and many smaller ones that move slowly over the weaker, partly molten asthenosphere beneath. The theory was assembled in the 1960s, building on Alfred Wegener's 1912 hypothesis of continental drift and on mid-20th-century evidence from the seafloor.
+
+Earth's internal structure
+
+Earth has concentric layers: a thin crust (about 5–10 km thick under oceans, 30–50 km under continents), the mantle (extending to about 2,900 km depth), a liquid outer core, and a solid inner core of iron and nickel. Heat from the core and from radioactive decay drives slow convection in the mantle, which is the primary engine of plate motion. Plates move at roughly 2–10 centimeters per year — about the rate at which fingernails grow.
+
+Types of plate boundaries
+
+- Divergent boundaries: plates move apart, and magma rises to form new crust. Most occur at mid-ocean ridges, such as the Mid-Atlantic Ridge; on land they form rift valleys, like the East African Rift. This process is called seafloor spreading.
+- Convergent boundaries: plates collide. Where oceanic crust meets continental or other oceanic crust, the denser plate is forced beneath the other in a process called subduction, forming deep ocean trenches, volcanic arcs, and powerful earthquakes. Where two continental plates collide, neither subducts easily, and crust crumples upward — the Himalayas rose from the collision of the Indian and Eurasian plates and are still growing.
+- Transform boundaries: plates slide horizontally past each other, as at California's San Andreas Fault. These produce earthquakes but little volcanism.
+
+Evidence for the theory
+
+Support for plate tectonics includes the jigsaw fit of continents (notably South America and Africa), matching fossils and rock formations on now-separated continents, the global distribution of earthquakes and volcanoes along plate boundaries, and — decisively — magnetic striping on the seafloor. As new oceanic crust forms and cools at ridges, it records Earth's magnetic field, which periodically reverses; the resulting symmetric bands on either side of a ridge proved that the seafloor spreads.
+
+Earthquakes
+
+An earthquake is the sudden release of energy in the crust that creates seismic waves. Most occur when stress accumulated along a fault exceeds the friction holding the rock in place, causing it to slip. The point underground where rupture begins is the hypocenter (or focus); the point directly above it on the surface is the epicenter.
+
+Seismic waves come in two main types: body waves and surface waves. Among body waves, P-waves (primary) are compressional, travel fastest (about 6–8 km/s in the crust), and arrive first; S-waves (secondary) are slower shear waves that cannot pass through liquids — a fact that revealed Earth's liquid outer core. Surface waves travel along the ground and typically cause the most damage. Seismographs record these waves, and comparing arrival times at multiple stations locates the epicenter.
+
+Measuring earthquakes
+
+Magnitude quantifies the energy released. The moment magnitude scale (Mw) has largely replaced the older Richter scale for large events. Both are logarithmic: each whole-number increase represents about 32 times more energy released and roughly a tenfold increase in ground-shaking amplitude. Intensity, by contrast, measures the effects felt at a location (using scales such as the Modified Mercalli scale) and varies with distance, depth, and local geology. The largest earthquake ever recorded was the 1960 Valdivia earthquake in Chile, at magnitude 9.5.
+
+Hazards and the Ring of Fire
+
+About 90% of the world's earthquakes and roughly 75% of its active volcanoes occur around the Pacific Ocean's margins, a zone known as the Ring of Fire, where numerous plates converge and subduct. Undersea earthquakes and volcanic activity can displace enormous volumes of water and generate tsunamis — series of waves that travel across oceans at speeds up to 800 km/h and can grow to great heights on reaching shallow coasts. Understanding plate tectonics allows scientists to identify high-risk zones, though predicting the exact timing of individual earthquakes remains beyond current science; efforts focus instead on hazard mapping, building codes, and early-warning systems that detect fast P-waves to give seconds of warning before damaging surface waves arrive.

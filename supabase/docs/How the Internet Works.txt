@@ -1,0 +1,37 @@
+How the Internet Works: Protocols, Routing, and the Web
+
+The Internet is a global network of interconnected networks that communicate using a common set of protocols known as the Internet protocol suite, or TCP/IP. It grew out of ARPANET, a project of the U.S. Advanced Research Projects Agency that sent its first message in 1969. TCP/IP was standardized in 1983, and the World Wide Web — an application running on top of the Internet — was invented by Tim Berners-Lee at CERN in 1989–1991.
+
+The layered model
+
+Network communication is organized into layers, each handling a distinct concern. The TCP/IP model has four layers, which map loosely onto the seven-layer OSI reference model:
+1. Link layer (network access): moves data across a single physical link, e.g., Ethernet or Wi-Fi (IEEE 802.11). Devices are identified by 48-bit MAC addresses.
+2. Internet layer: routes packets across networks using the Internet Protocol (IP). IPv4 uses 32-bit addresses (about 4.3 billion, now exhausted); IPv6 uses 128-bit addresses (about 3.4 x 10^38).
+3. Transport layer: provides end-to-end communication. TCP (Transmission Control Protocol) is connection-oriented and reliable, using acknowledgments, sequence numbers, and retransmission. UDP (User Datagram Protocol) is connectionless and fast, preferred for streaming, gaming, and DNS.
+4. Application layer: protocols that programs use directly, such as HTTP, HTTPS, SMTP (email), FTP, and SSH.
+
+Packets and routing
+
+Data is broken into packets, each carrying a header (source and destination IP addresses, among other fields) and a payload. Routers forward packets hop by hop toward their destination, consulting routing tables. The Border Gateway Protocol (BGP) is the protocol that autonomous systems — large networks operated by ISPs and organizations — use to exchange routing information across the global Internet. Because packets can take different paths and arrive out of order, TCP reassembles them correctly at the destination.
+
+The Domain Name System (DNS)
+
+Humans use domain names like example.com, but routers use IP addresses. DNS is the distributed, hierarchical database that translates names to addresses. A lookup proceeds from a recursive resolver to root name servers (there are 13 logical root server addresses), then to top-level domain (TLD) servers (.com, .org, country codes), then to the authoritative name server for the specific domain. Results are cached with a time-to-live (TTL) to reduce load and latency.
+
+HTTP and the web
+
+The Web works through the Hypertext Transfer Protocol (HTTP). A client (browser) sends a request specifying a method — GET (retrieve), POST (submit), PUT, DELETE, and others — to a server, which returns a response with a status code (200 OK, 301 Moved Permanently, 404 Not Found, 500 Internal Server Error) and a body, typically HTML, CSS, JavaScript, JSON, or media. HTTP is stateless; cookies and tokens are used to maintain sessions.
+
+HTTPS is HTTP secured with TLS (Transport Layer Security), which encrypts traffic and authenticates servers using digital certificates issued by certificate authorities. TLS uses asymmetric cryptography (a public/private key pair) to establish a shared session key, then symmetric encryption for speed. Web pages are addressed by URLs (Uniform Resource Locators) with the structure scheme://host:port/path?query#fragment.
+
+Clients, servers, and infrastructure
+
+Most of the Web follows a client–server model, though peer-to-peer systems (e.g., BitTorrent) distribute the role. Content delivery networks (CDNs) cache content on servers geographically close to users to cut latency. Data centers house the physical servers, and undersea fiber-optic cables carry the great majority of intercontinental traffic — over 500 such cables span the world.
+
+Addresses, ports, and NAT
+
+Each service on a host listens on a numbered port (HTTP is 80, HTTPS is 443, SSH is 22, DNS is 53). Because IPv4 addresses are scarce, Network Address Translation (NAT) lets many devices on a private network share one public IP address, with the router mapping internal addresses and ports to external ones. Private address ranges (like 192.168.x.x and 10.x.x.x) are reserved for internal use.
+
+Key takeaways
+
+The Internet's power comes from its layered, decentralized design: any device can join by speaking the standard protocols, no central authority controls routing, and higher layers (like the Web) are built on lower ones without needing to know their details. This end-to-end principle — keeping the network simple and pushing intelligence to the endpoints — has allowed applications from email to video streaming to evolve on the same underlying infrastructure.
